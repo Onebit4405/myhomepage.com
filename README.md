@@ -37,13 +37,13 @@
   <div class="lesson-wrapper">
     <div class="container">
       <div class="heading">
-        <h2>トロイ国及びトロイ帝国の代表者</h2>
+        <h2>トロイ国及びトロイ帝国サーバー</h2>
       </div>
       <div class="lessons">
         <div class="lesson">
           <div class="lesson-icon">
-            <img src="">
-            <p>HTML & CSS</p>
+            <img src="https://pbs.twimg.com/profile_images/1688907523578019840/fVUYbtwl_400x400.jpg">
+            <p>鯖主　ONBIT</p>
           </div>
           <p class="text-contents">ウェブページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
         </div>
