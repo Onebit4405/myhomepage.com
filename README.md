@@ -53,7 +53,7 @@
             <p>せいちろ</p>
           </div>
           <p class="text-contents">トロイ町の町長　youtubeをしている</p>
-          <base href ="https://www.youtube.com/@zerocalories00911">
+          <a href ="https://www.youtube.com/@zerocalories00911">せいちろyoutube</a>
         </div>
         <div class="lesson">
           <div class="lesson-icon">
