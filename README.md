@@ -49,10 +49,11 @@
         </div>
         <div class="lesson">
           <div class="lesson-icon">
-            <img src="https://prog-8.com/images/html/advanced/jQuery.png">
-            <p>jQuery</p>
+            <img src="https://github.com/Onebit4405/myhomepage.com/blob/main/channels4_profile%20(1).jpg?raw=true">
+            <p>せいちろ</p>
           </div>
-          <p class="text-contents">素敵な動きを手軽に実装できるJavaScriptライブラリです。 アニメーション効果をつけたり、Ajax（エイジャックス）を使って外部ファイルを読み込んだりと色々なことができます。</p>
+          <p class="text-contents">トロイ町の町長　youtubeをしている</p>
+          <base href ="https://www.youtube.com/@zerocalories00911">
         </div>
         <div class="lesson">
           <div class="lesson-icon">
