@@ -8,7 +8,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
-<body back ground ="">
+<body background ="https://github.com/Onebit4405/myhomepage.com/blob/main/s_k_i_n.png?raw=true">
   <header>
     <div class="container">
       <div class="header-left">
@@ -85,7 +85,7 @@
   </div>
   <footer>
     <div class="container">
-      <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
+      <img src="">
       <p>Learn to Code, Learn to be Creative.</p>
     </div>
   </footer>
