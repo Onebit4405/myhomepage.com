@@ -46,15 +46,15 @@
             <p>鯖主　ONBIT</p>
           </div>
           <p class="text-contents">このWEBの製作者であり、トロイNET 鯖主</p>
-       <a href ="https://twitter.com/toroimati">ワイの旧Twitter垢</a>
+       <a href ="https://twitter.com/toroimati">ONEBITの旧Twitter垢</a>
         </div>
         <div class="lesson">
           <div class="lesson-icon">
             <img src="https://github.com/Onebit4405/myhomepage.com/blob/main/channels4_profile%20(1).jpg?raw=true">
-            <p>せいちろ</p>
+            <p> トロイ国首都トロイ町の町長せいちろ</p>
           </div>
           <p class="text-contents">トロイ町の町長　youtubeをしている</p>
-          <a href ="https://www.youtube.com/@zerocalories00911">せいちろyoutube/a>
+          <a href ="https://www.youtube.com/@zerocalories00911">せいちろyoutube</a>
         </div>
         <div class="lesson">
           <div class="lesson-icon">
