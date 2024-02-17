@@ -11,14 +11,10 @@
 <body background ="https://github.com/Onebit4405/myhomepage.com/blob/main/s_k_i_n.png?raw=true">
   <header>
     <div class="container">
-      <div class="header-left">
-        <img class="logo" src="https://raw.githubusercontent.com/prog-8/prog-8.github.io/master/top.png">
-      </div>
+      <div class="header-left">      </div>
       <span class="fa fa-bars menu-icon"></span>
       <div class="header-right">
-        <a href="#">カレーうどん</a>
-        <a href="#">うな重</a>
-        <a href="#" class="login">ログイン</a>
+        <a href="#">トロイNET</a>
       </div>
     </div>
   </header>
@@ -43,7 +39,7 @@
         <div class="lesson">
           <div class="lesson-icon">
             <img src="https://pbs.twimg.com/profile_images/1688907523578019840/fVUYbtwl_400x400.jpg">
-            <p>鯖主　ONBIT</p>
+            <p>ONBIT</p>
           </div>
           <p class="text-contents">このWEBの製作者であり、トロイNET 鯖主</p>
        <a href ="https://twitter.com/toroimati">ONEBITの旧Twitter垢</a>
@@ -51,10 +47,10 @@
         <div class="lesson">
           <div class="lesson-icon">
             <img src="https://github.com/Onebit4405/myhomepage.com/blob/main/channels4_profile%20(1).jpg?raw=true">
-            <p> トロイ国首都トロイ町の町長せいちろ</p>
+            <p> せいちろ</p>
           </div>
           <p class="text-contents">トロイ町の町長　youtubeをしている</p>
-          <a href ="https://www.youtube.com/@zerocalories00911">せいちろyoutube</a>
+          <a href ="https://www.youtube.com/@zerocalories00911"><br>せいちろyoutube</a>
         </div>
         <div class="lesson">
           <div class="lesson-icon">
