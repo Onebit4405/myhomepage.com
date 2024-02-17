@@ -49,7 +49,7 @@
             <img src="https://github.com/Onebit4405/myhomepage.com/blob/main/channels4_profile%20(1).jpg?raw=true">
             <p> せいちろ</p>
           </div>
-          <p class="text-contents">トロイ町の町長　youtubeをしている</p>
+          <p class="text-contents">トロイ町の町長<br>youtubeをしている</p>
           <a href ="https://www.youtube.com/@zerocalories00911"><br>せいちろyoutube</a>
         </div>
         <div class="lesson">
