@@ -37,7 +37,7 @@
   <div class="lesson-wrapper">
     <div class="container">
       <div class="heading">
-        <h2>トロイ国及びトロイ帝国サーバー</h2>
+        <h2>トロイ国NETWORKS</h2>
       </div>
       <div class="lessons">
         <div class="lesson">
