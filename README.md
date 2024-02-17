@@ -45,7 +45,8 @@
             <img src="https://pbs.twimg.com/profile_images/1688907523578019840/fVUYbtwl_400x400.jpg">
             <p>鯖主　ONBIT</p>
           </div>
-          <p class="text-contents">ウェブページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
+          <p class="text-contents">このWEBの製作者であり、トロイNET 鯖主</p>
+       <a href ="https://twitter.com/toroimati">ワイの旧Twitter垢</a>
         </div>
         <div class="lesson">
           <div class="lesson-icon">
@@ -53,7 +54,7 @@
             <p>せいちろ</p>
           </div>
           <p class="text-contents">トロイ町の町長　youtubeをしている</p>
-          <a href ="https://www.youtube.com/@zerocalories00911">せいちろyoutube</a>
+          <a href ="https://www.youtube.com/@zerocalories00911">せいちろyoutube/a>
         </div>
         <div class="lesson">
           <div class="lesson-icon">
