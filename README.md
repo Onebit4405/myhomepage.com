@@ -21,12 +21,7 @@
   <div class="top-wrapper">
     <div class="container">
       <h1>トロイ国民募集</h1>
-      <p>ONEBITは優しい人です</p>
-      <div class="btn-wrapper">
-        <a href="#" class="btn signup">新規登録はこちら</a>
-        <p>or</p>
-        <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで登録</a>
-        <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで登録</a>
+      <p>ONEBITはいま寝ています</p>
       </div>
     </div>
   </div>
